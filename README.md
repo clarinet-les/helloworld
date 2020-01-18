@@ -1,3 +1,3 @@
 Hello World!
 
-Welcome to the snow storm
+This is a program that prints Hello World.
